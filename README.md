@@ -1,3 +1,3 @@
 git_hub_repo
 
-some text.
+Lesson_3
